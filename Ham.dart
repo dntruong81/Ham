@@ -7,4 +7,5 @@ void main() {
   daySo.forEach((i) => print(i*i));
   int? b;
   print (b);
+  int? c;
 }
